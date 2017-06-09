@@ -40,3 +40,5 @@ optional arguments:
 The AJPv13 protocol is documented at: http://tomcat.apache.org/connectors-doc-
 archive/jk2/common/AJPv13.html
 ```
+
+This script has been used to log several Alfresco Jiras.
