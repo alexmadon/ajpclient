@@ -5,7 +5,7 @@ When testing an java app running on tomcat on the 8009 ajp13 connector, you can 
 
 For test and QA purposes, it is sometimes easier to send a curl like command.
 
-This tool is to AJP13 what curl is to HTTP.
+This tool aims to be to AJP13 what curl is to HTTP.
 
 To get help, use the -h flag:
 
